@@ -1,2 +1,2 @@
 # lab4
-INTRO TO GIT
+INTRO TO GIThub
